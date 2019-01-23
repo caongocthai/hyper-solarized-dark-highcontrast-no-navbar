@@ -1,7 +1,7 @@
 {
-  "name": "hyper-solarized-dark-highcontrast",
-  "version": "0.0.1",
-  "description": "Hyper theme using the dark Solarized colors (high contrast)",
+  "name": "hyper-solarized-dark-highcontrast-no-navbar",
+  "version": "0.0.2",
+  "description": "Hyper theme using the dark Solarized colors (high contrast) with no navigation bar",
   "main": "index.js",
   "keywords": [
     "hyperterm",
@@ -14,14 +14,14 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/roccozanni/hyper-solarized-dark-highcontrast.git"
+    "url": "git+https://github.com/kcatstack/hyper-solarized-dark-highcontrast-no-navbar.git"
   },
-  "author": "Rocco Zanni",
+  "author": "Harry Cao",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/roccozanni/hyper-solarized-dark-highcontrast/issues"
+    "url": "https://github.com/kcatstack/hyper-solarized-dark-highcontrast-no-navbar/issues"
   },
-  "homepage": "https://github.com/roccozanni/hyper-solarized-dark-highcontrast#readme",
+  "homepage": "https://github.com/kcatstack/hyper-solarized-dark-highcontrast-no-navbar#readme",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   }

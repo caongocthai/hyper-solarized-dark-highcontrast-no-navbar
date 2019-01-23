@@ -44,7 +44,7 @@ exports.decorateConfig = config => {
       	border: 0;
       }
       .tabs_nav {
-      	background-color: #001f27 !important;
+      	background-color: ${backgroundColor} !important;
       }
       .tab_tab {
         color: ${foregroundColor} !important;
@@ -61,7 +61,7 @@ exports.decorateConfig = config => {
         background-color: ${backgroundColor};
       }
       .splitpane_divider {
-      	background-color: #001f27 !important;	
+      	background-color: #001f27 !important;
       }
     `
   })
